@@ -1,9 +1,5 @@
-1.    git checkout <имя файла> отменить все последние изменения в 
-подконтрольном 
-файле
-2.     git restore —stage <имя файла> - возврат файла из staged area в 
-working 
-directory
+1.    git checkout <имя файла> отменить все последние изменения в подконтрольном файле
+2.     git restore —stage <имя файла> - возврат файла из staged area в working directory
 3.    git revert HEAD - откатить изменения в последнем коммите 
 4.    git checkout -b <имя ветки> создать ветку и переключиться на нее
 5.    Fast-forward merge когда текущая ветка не имеет дополнительных 
